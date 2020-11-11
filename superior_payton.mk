@@ -20,7 +20,7 @@ $(call inherit-product, vendor/superior/config/common.mk)
 
 #Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
-DEVICE_MAINTAINERS="Dhinesh"
+DEVICE_MAINTAINERS="shrinidhi"
 
 # Launcher
 TARGET_LAUNCHER := oplauncher
