@@ -89,6 +89,7 @@ BOARD_KERNEL_CMDLINE += swiotlb=2048 androidboot.configfs=true
 BOARD_KERNEL_CMDLINE += androidboot.usbcontroller=a800000.dwc3
 BOARD_KERNEL_CMDLINE += loop.max_part=7
 BOARD_KERNEL_CMDLINE += androidboot.veritymode=eio
+BOARD_KERNEL_CMDLINE += androidboot.boot_devices=soc/c0c4000.sdhci
 #BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_PAGESIZE := 4096
