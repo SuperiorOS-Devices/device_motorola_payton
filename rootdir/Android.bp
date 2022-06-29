@@ -1,12 +1,6 @@
 // Device init scripts
 
 prebuilt_etc {
-    name: "fstab.qcom",
-    src: "etc/fstab.qcom",
-    soc_specific: true,
-}
-
-prebuilt_etc {
     name: "init.mmi.ramdump.rc",
     src: "etc/init.mmi.ramdump.rc",
     sub_dir: "init/hw",
