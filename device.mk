@@ -489,7 +489,7 @@ PRODUCT_COPY_FILES += \
 # Update this list with what each blob is actually for
 # libstdc++: camera.sdm660
 PRODUCT_PACKAGES += \
-    libstdc++.vendor \
+    libstdc++_vendor \
     libgui_vendor
 
 PRODUCT_EXTRA_VNDK_VERSIONS := 28 29 30
