@@ -2,19 +2,19 @@
   {
     "repository": "kernel_motorola_payton",
     "target_path": "kernel/motorola/payton",
-    "branch": "thirteen",
+    "branch": "fourteen",
     "remote": "SuperiorOS-Devices"
   },
   {
     "repository": "vendor_motorola_payton",
     "target_path": "vendor/motorola/payton",
-    "branch": "thirteen",
+    "branch": "fourteen",
     "remote": "SuperiorOS-Devices"
   },
   {
     "repository": "LineageOS/android_hardware_motorola",
     "target_path": "hardware/motorola",
-    "branch": "lineage-20",
+    "branch": "lineage-21",
     "remote": "github"
   }
 ]
