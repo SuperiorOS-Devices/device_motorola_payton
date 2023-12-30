@@ -16,5 +16,11 @@
     "target_path": "hardware/motorola",
     "branch": "lineage-21",
     "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-21.0",
+    "remote": "github"
   }
 ]
