@@ -490,7 +490,7 @@ PRODUCT_PACKAGES += \
     libstdc++_vendor \
     libgui_vendor
 
-PRODUCT_EXTRA_VNDK_VERSIONS := 28 29 30
+PRODUCT_EXTRA_VNDK_VERSIONS := 30
 
 # Wifi
 PRODUCT_COPY_FILES += \
