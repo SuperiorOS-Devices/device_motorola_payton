@@ -23,10 +23,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, vendor/superior/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# Official SuperiorOS
-SUPERIOR_OFFICIAL := true
-DEVICE_MAINTAINERS="Dhinesh"
-
 # Device
 $(call inherit-product, device/motorola/payton/device.mk)
 
